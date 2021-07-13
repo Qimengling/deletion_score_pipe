@@ -1,5 +1,7 @@
 # del_score_pipe
 This code is used to score the deletion, which is based on the secondary structure of DNA near the genome of the deletion, and GC content.
+###R version: R version 3.6.1 (2019-07-05)
+###Biostring version:Biostrings_2.52.0
 ###file: chr,start,end,strand
 Rscript get_bed.R info.csv
 ###discard "
